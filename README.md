@@ -63,6 +63,7 @@ Clothing achieves the highest profit margin (~8%), while Furniture generates rev
 
 ![Category Performance](Output/category_performance.png)
 
+![Category Performance](Visualisations/category_performance.png)
 ### 🔎 Insight:
 
 * High revenue does not guarantee profitability
@@ -82,6 +83,7 @@ States like Madhya Pradesh and Maharashtra lead in sales, while Tamil Nadu, Punj
 
 ![State Analysis](Output/statewise_analysis.png)
 
+![State Analysis](Visualisations/statewise_sales.png)
 ### 🔎 Insight:
 
 * Regional performance is highly uneven
@@ -120,6 +122,7 @@ Sales peak during November–January and drop significantly during mid-year mont
 
 ![Monthly Trend](Output/monthly_sales_trend.png)
 
+![Monthly Trend](Visualisations/monthly_salestrend.png)
 ### 🔎 Insight:
 
 * Strong **seasonality pattern**
@@ -139,6 +142,7 @@ Electronics consistently exceeds targets, while Furniture underperforms and Clot
 
 ![Target vs Actual](Output/target_vs_actual_sales.png)
 
+![Target vs Actual](Visualisations/actual_vs_target.png)
 ### 🔎 Insight:
 
 * Electronics is the **primary growth driver**
